@@ -3,6 +3,16 @@ entries:
   test:
   - apiVersion: v2
     appVersion: 1.16.0
+    created: "2021-08-26T04:30:56.773066357Z"
+    description: A Helm chart for Kubernetes
+    digest: 2c6b3929fb3f2af4c3614a2bed40d1490e8910c831cc48580ad0d706b69bd3d6
+    name: test
+    type: application
+    urls:
+    - https://github.com/radhamde/harness-helm-charts/releases/download/test-0.1.1/test-0.1.1.tgz
+    version: 0.1.1
+  - apiVersion: v2
+    appVersion: 1.16.0
     created: "2021-08-25T18:40:19.04477973Z"
     description: A Helm chart for Kubernetes
     digest: cf7ee4411ae03f4c4e3f5b6d63db41f2f161d7603f6e188ae61c1b16b409c3ac
@@ -10,5 +20,16 @@ entries:
     type: application
     urls:
     - https://github.com/radhamde/harness-helm-charts/releases/download/test-0.1.0/test-0.1.0.tgz
+    version: 0.1.0
+  test1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-08-26T04:30:56.871109406Z"
+    description: A Helm chart for Kubernetes
+    digest: 23546252cdc4933c477669abda32d9f87ba646ec2b9f7fec931e3d87efcd920e
+    name: test1
+    type: application
+    urls:
+    - https://github.com/radhamde/harness-helm-charts/releases/download/test1-0.1.0/test1-0.1.0.tgz
     version: 0.1.0
 generated: "2021-08-25T18:40:18.783380084Z"

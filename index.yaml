@@ -42,4 +42,15 @@ entries:
     urls:
     - https://github.com/radhamde/harness-helm-charts/releases/download/test1-0.1.0/test1-0.1.0.tgz
     version: 0.1.0
+  test3:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2021-09-01T06:45:20.554992441Z"
+    description: A Helm chart for Kubernetes
+    digest: 0eaff870c4fa056e2873817ddd8c089319ff498af52cc915aaa80726cb687134
+    name: test3
+    type: application
+    urls:
+    - https://github.com/radhamde/harness-helm-charts/releases/download/test3-0.1.0/test3-0.1.0.tgz
+    version: 0.1.0
 generated: "2021-08-25T18:40:18.783380084Z"
